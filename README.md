@@ -1,5 +1,5 @@
 # LinkedList
-create a linked list and used for a simple demonstration.
+created a linked list and used for a simple demonstration.
 
 Introduction:
 
